@@ -2,7 +2,7 @@
   "name": "chess",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AliasKittia.github.io/sulis",
+  "homepage": "https://AliasKittia.github.io/chess",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
