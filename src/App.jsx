@@ -1,7 +1,7 @@
 import { ChesstList } from './ChessList';
 import { ChessSingle } from './ChessSingle';
 import { ChessCreate } from './ChessCreate';
-import { HashRouter as Router, NavLink, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, NavLink, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 export const App = () => {
